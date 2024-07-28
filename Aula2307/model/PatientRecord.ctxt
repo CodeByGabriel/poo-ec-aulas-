@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PatientRecord
+comment1.params=id\ matricula\ nomeCompleto\ tipoSanguineo
+comment1.target=PatientRecord(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=java.lang.String\ getMatricula()
+comment5.params=matricula
+comment5.target=void\ setMatricula(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNomeCompleto()
+comment7.params=nomeCompleto
+comment7.target=void\ setNomeCompleto(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getTipoSanguineo()
+comment9.params=tipoSanguineo
+comment9.target=void\ setTipoSanguineo(java.lang.String)
+numComments=10

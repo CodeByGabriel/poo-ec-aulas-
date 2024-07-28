@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PatientRecordController
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=
+comment2.target=void\ addRecord()
+comment3.params=
+comment3.target=void\ updateRecord()
+comment4.params=
+comment4.target=void\ deleteRecord()
+comment5.params=
+comment5.target=void\ cancelEdit()
+comment6.params=
+comment6.target=void\ saveRecord()
+comment7.params=
+comment7.target=void\ clearFields()
+numComments=8

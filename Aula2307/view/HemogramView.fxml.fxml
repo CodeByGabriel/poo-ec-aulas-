@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="controller.HemogramController">
+    <TableView fx:id="tableView">
+        <columns>
+            <TableColumn fx:id="idColumn" text="ID" />
+            <TableColumn fx:id="nameColumn" text="Patient Name" />
+            <TableColumn fx:id="ageColumn" text="Age" />
+            <TableColumn fx:id="hemoglobinColumn" text="Hemoglobin" />
+            <TableColumn fx:id="redBloodCellsColumn" text="Red Blood Cells" />
+            <TableColumn fx:id="whiteBloodCellsColumn" text="White Blood Cells" />
+        </columns>
+    </TableView>
+    <Label text="Patient Name" />
+    <TextField fx:id="nameField" />
+    <Label text="Age" />
+    <TextField fx:id="ageField" />
+    <Label text="Hemoglobin" />
+    <TextField fx:id="hemoglobinField" />
+    <Label text="Red Blood Cells" />
+    <TextField fx:id="redBloodCellsField" />
+    <Label text="White Blood Cells" />
+    <TextField fx:id="whiteBloodCellsField" />
+    <Button fx:id="addButton" text="Add Record" />
+</VBox>
