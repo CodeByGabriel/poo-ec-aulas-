@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HemogramaAnalyzer
+comment1.params=hemoglobina\ hematocrito
+comment1.target=double\ calcularHb(double,\ double)
+comment2.params=hematocrito\ numeroEritrocitos
+comment2.target=double\ calcularVCM(double,\ int)
+comment3.params=hemoglobina\ hematocrito\ numeroEritrocitos
+comment3.target=java.lang.String\ analisarHemograma(double,\ double,\ int)
+numComments=4
